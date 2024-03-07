@@ -35,7 +35,7 @@ export const FilterReducer=(state,action)=>{
                 sort:''
             }
         default:
-            state;
+            return state;
     }
 
 }
