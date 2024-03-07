@@ -34,9 +34,6 @@ export const FilterReducer=(state,action)=>{
                 isRating:0,
                 sort:''
             }
-       
-
-    
         default:
             state;
     }
